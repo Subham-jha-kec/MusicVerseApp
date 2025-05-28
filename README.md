@@ -1,0 +1,1 @@
+Built a responsive and interactive music streaming web application that allows users to search, explore, and play music tracks. The app includes authentication features to provide secure user access and a personalized experience.
